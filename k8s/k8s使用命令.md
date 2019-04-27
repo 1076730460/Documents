@@ -9,3 +9,5 @@ kubectl delete pod podname
     kubectl get rc 
     如果没有，直接删除部署容器，查看部署容器  kubectl get deployment
     删除：kubectl delete deployment deploymentName
+    
+ 
